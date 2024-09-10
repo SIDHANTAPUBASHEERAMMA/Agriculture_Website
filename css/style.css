@@ -1,22 +1,4 @@
-/******************************
 
-    00 - Home
-    01 - Inner Page
-		01 - Service Detail
-        02 - Portfolio Detail
-        03 - Blog Detail
-             Sidebar Right
-             Blog Classic
-             Blog Single
-        04 - Team Member Detail
-        05 - Contact Us
-        06 - Comment Form
-    
-******************************/
-
-/*----------------------------------------*/
-/*  00 - Home
-/*----------------------------------------*/
 #page{
 	overflow: hidden;
 }
@@ -31,6 +13,7 @@
     background-size: cover;
 	border-radius: 30px;
 	height: 100%;
+	width:100%;
 	position: relative;
 }
 .who-we-are-one-leftbox .fid-style-area{
